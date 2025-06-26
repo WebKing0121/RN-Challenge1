@@ -4,7 +4,7 @@
 
 This repo is for the code challenge to work for Mindful Software.
 
-Your task is to fork this repo and develop an expo application. This application will be a journal for the user. You are free to use any dependencies you want.
+Your task is to fork this repo and develop an expo application using `create-expo-app`. This application will be a journal for the user. You are free to use any dependencies you want.
 
 The requirements are:
 
